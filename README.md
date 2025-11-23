@@ -14,3 +14,9 @@ By completing this project, I practiced and demonstrated the following skills:
 - **Media & Links:** Embedding images and creating hyperlinks using both absolute and relative file paths.
 - **Version Control:** Using Git for atomic commits and pushing code to GitHub.
 - **File Management:** Organizing a project with proper directory structures for pages and images.
+
+- **Image Credit:**
+
+Chole Bhature - Avinash Bhat
+Poutine - Shankar S
+Fettuccine-Alfredo - Radagast
