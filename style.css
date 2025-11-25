@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+h1 {
+ text-align: center;
+margin: 20px auto;
+background-color: #E0C694;
+border:3px solid black;
+border-radius: 10px;
+
+}
+
+body{
+    padding: 10px;
+}
+
+.recipe-link{
+    display: block;
+    font-size: larger;
+    font-weight: bold;
+    margin: 20px auto;
+    text-decoration: none;
+    margin-left: 50px;
+}
